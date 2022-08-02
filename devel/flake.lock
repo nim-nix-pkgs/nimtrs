@@ -757,7 +757,7 @@
         "hnimast": "hnimast",
         "hpprint": "hpprint",
         "nixpkgs": "nixpkgs",
-        "src-nimtrs-master": "src-nimtrs-master"
+        "src-nimtrs-devel": "src-nimtrs-devel"
       }
     },
     "src-benchy-master": {
@@ -1151,19 +1151,19 @@
         "type": "github"
       }
     },
-    "src-nimtrs-master": {
+    "src-nimtrs-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1631989107,
-        "narHash": "sha256-aBrYabckEGc4qQQUcdWmoESY+2gQsnQQJCV9Tf1eF3M=",
+        "lastModified": 1599494695,
+        "narHash": "sha256-5YzzNc1g4IB8VDY6mZlsPaA+ptUseOA2frdV1N5OZI8=",
         "owner": "haxscramper",
         "repo": "nimtrs",
-        "rev": "1f09c81ada6ecdabcbf06b6fb9d8dfa17e66640c",
+        "rev": "d5b9a0695ff6b3f5aad65e60e83e738a771cb914",
         "type": "github"
       },
       "original": {
         "owner": "haxscramper",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/devel",
         "repo": "nimtrs",
         "type": "github"
       }
